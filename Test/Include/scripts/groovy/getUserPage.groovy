@@ -51,7 +51,7 @@ class getUserPage {
 	def response
 	@Given("User menyiapkan body yang diperlukan untuk hit API GET User From Page")
 	def menyiapkan_data_get_user_page() {
-		GlobalVariable.Page = 3
+		GlobalVariable.Page = 10
 	}
 
 	@When("User hit API GET User From Page")
