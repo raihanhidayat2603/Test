@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Login Locked Out User</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>f04691a2-b5d4-40b7-a197-d8ec86da8b6c</testCaseGuid>
-</TestCaseEntity>
